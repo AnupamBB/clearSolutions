@@ -1,12 +1,55 @@
-# HooBank - Modern UI/UX website using React.js & Tailwind CSS
+# Clear Solutions
 
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+## Overview
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+Welcome to Clear Solutions!
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+## Getting Started
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+
+### Installation
+
+1. **Clone the repository**
+
+   Clone this repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/AnupamBB/clearSolutions.git
+   ```
+
+2. **Navigate to the project directory**
+
+   Change into the project directory:
+
+   ```bash
+   cd clearSolutions
+   ```
+
+3. **Install dependencies**
+
+   Install the required npm packages:
+
+   ```bash
+   npm install
+   ```
+
+4. **Run the development server**
+
+   Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+   The application will be available at `http://localhost:5173`.
+
+
+## Contact
+
+For any questions or feedback, please contact Anupam Bor Boruah at anupamborboruah100@gmail.com.
